@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+finance-analysis/
+work/
+*.csv
+*.xlsx
